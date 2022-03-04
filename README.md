@@ -1,16 +1,16 @@
 # requerimientos-ux-ui-abogabot
 Análisis de requerimientos, diseño de UI y UX de la página web de Abogabot
-____
+
 
 ## Análisis de requerimientos
 [Archivo de requerimientos](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/Requerimientos.docx)
-____
+
 ## Buyer person
 [Buyer persona](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/Buyer%20persona.pdf)
-____
+
 ## Público objetivo
 ![publico.jpg](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/Publico%20objetivo.jpg)
-____
+
 ## Diseño de experiencia de usuario (UX)
 
 ### Página de inicio
@@ -38,7 +38,7 @@ ____
 ![pagos.jpg](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/UX/ux_9_vista_admin.jpg)
 
 [Proyecto en miro](https://miro.com/app/board/uXjVOIzc1Iw=/)
-____
+
 
 ## Diseño de interfaz de usuario (UI)
 
@@ -49,7 +49,7 @@ ____
 ![formulario.jpg](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/UI/ui_4_formulario.png)
 
 ### Registro de nuevos usuarios
-![registro.jpg](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/UI/ui_5_registro.png)
+![registro.jpg](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/UI/ui_5_resgistro.png)
 
 ### Pago de demanda
 ![demanda.jpg](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/UI/ui_6_pago.png)
@@ -64,7 +64,7 @@ ____
 ![pagos.jpg](https://github.com/LorenaOviedo/requerimientos-ux-ui-abogabot/blob/main/UI/ui_9_vista_admin.png)
 
 Construido en Microsoft Visio
-______________
+______
 
 Creado por Lorena Oviedo
-Github: [@LorenaOviedo](https://github.com/LorenaOviedo)
+* Github: [@LorenaOviedo](https://github.com/LorenaOviedo)
